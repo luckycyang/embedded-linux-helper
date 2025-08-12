@@ -1,0 +1,12 @@
+[binaries]
+c = '/home/cyang/Public/toolthains/armv7-eabihf--musl--bleeding-edge-2024.05-1/bin/arm-linux-gcc'
+cpp = '/home/cyang/Public/toolthains/armv7-eabihf--musl--bleeding-edge-2024.05-1/bin/arm-linux-g++'
+ar = '/home/cyang/Public/toolthains/armv7-eabihf--musl--bleeding-edge-2024.05-1/bin/arm-linux-ar'
+windres = '/home/cyang/Public/toolthains/armv7-eabihf--musl--bleeding-edge-2024.05-1/bin/arm-linux-windres'
+strip = '/home/cyang/Public/toolthains/armv7-eabihf--musl--bleeding-edge-2024.05-1/bin/arm-linux-strip'
+
+[host_machine]
+system = 'linux'
+cpu_family = 'x86_64'
+cpu = 'x86_64'
+endian = 'little'
